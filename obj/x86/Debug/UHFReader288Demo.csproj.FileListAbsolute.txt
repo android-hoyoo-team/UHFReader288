@@ -1,0 +1,10 @@
+F:\项目\五月\追溯\实施\实施\YXU-K5 SDK\以UHFReader288M命名的中性中英文资料\中文版\演示软件\c#\UHFReader288Demo(底层通讯)v1.1\bin\x86\Debug\UHFReader288Demo.exe
+F:\项目\五月\追溯\实施\实施\YXU-K5 SDK\以UHFReader288M命名的中性中英文资料\中文版\演示软件\c#\UHFReader288Demo(底层通讯)v1.1\bin\x86\Debug\UHFReader288Demo.pdb
+F:\项目\五月\追溯\实施\实施\YXU-K5 SDK\以UHFReader288M命名的中性中英文资料\中文版\演示软件\c#\UHFReader288Demo(底层通讯)v1.1\bin\x86\Debug\CustomControl.dll
+F:\项目\五月\追溯\实施\实施\YXU-K5 SDK\以UHFReader288M命名的中性中英文资料\中文版\演示软件\c#\UHFReader288Demo(底层通讯)v1.1\obj\x86\Debug\UHFReader288Demo.ConfigForm.resources
+F:\项目\五月\追溯\实施\实施\YXU-K5 SDK\以UHFReader288M命名的中性中英文资料\中文版\演示软件\c#\UHFReader288Demo(底层通讯)v1.1\obj\x86\Debug\UHFReader288Demo.Form1.resources
+F:\项目\五月\追溯\实施\实施\YXU-K5 SDK\以UHFReader288M命名的中性中英文资料\中文版\演示软件\c#\UHFReader288Demo(底层通讯)v1.1\obj\x86\Debug\UHFReader288Demo.LoginForm.resources
+F:\项目\五月\追溯\实施\实施\YXU-K5 SDK\以UHFReader288M命名的中性中英文资料\中文版\演示软件\c#\UHFReader288Demo(底层通讯)v1.1\obj\x86\Debug\UHFReader288Demo.Properties.Resources.resources
+F:\项目\五月\追溯\实施\实施\YXU-K5 SDK\以UHFReader288M命名的中性中英文资料\中文版\演示软件\c#\UHFReader288Demo(底层通讯)v1.1\obj\x86\Debug\UHFReader288Demo.csproj.GenerateResource.Cache
+F:\项目\五月\追溯\实施\实施\YXU-K5 SDK\以UHFReader288M命名的中性中英文资料\中文版\演示软件\c#\UHFReader288Demo(底层通讯)v1.1\obj\x86\Debug\UHFReader288Demo.exe
+F:\项目\五月\追溯\实施\实施\YXU-K5 SDK\以UHFReader288M命名的中性中英文资料\中文版\演示软件\c#\UHFReader288Demo(底层通讯)v1.1\obj\x86\Debug\UHFReader288Demo.pdb
